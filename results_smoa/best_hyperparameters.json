@@ -1,0 +1,16 @@
+{
+    "hidden_layer_sizes": [
+        484,
+        261
+    ],
+    "activation": "tanh",
+    "solver": "sgd",
+    "alpha": 0.01570992077600196,
+    "max_iter": 50,
+    "learning_rate_init": 0.1,
+    "beta_1": 0.8,
+    "beta_2": 0.9,
+    "tol": 0.001,
+    "random_state": 42,
+    "verbose": false
+}
